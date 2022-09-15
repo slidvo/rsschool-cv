@@ -1,1 +1,1 @@
-#   rsschool-cv
+https://slidvo.github.io/rsschool-cv/cv
