@@ -12,4 +12,24 @@ Got high technical education in Surgut State University. Having started my caree
 After "College of Russian culture" I got position of QA Manual in one of the biggest russian IT companies SberTech. On this position I was testing SAP Human Resource. Throught half-year of working on this position I moved to QA Automation and already was making auto-tests with help CBTA component (specialize SAP component for writing autotests to frontend and backend)
 Now I interested in Web Development because it provides big possibilities for professional growth.
 For this moment I work in Bell Integrator. It is one of the biggest IT companies in Russia. I have position Java backend developer (middle) and working on project named Sberbank Business Online
+
 ---
+### Skills and Proficiency:
+- HTML5, CSS3
+- JavaScript, NodeJs, ExtJs, EJS
+- Java, Spting Gramework, Hibernate ORM, PSQL
+- VS Code, InteliJ Idea
+- Git, Github, BitBucket
+- Docker
+
+---
+### Code example:
+Commercial order web site [service of pies delivery](https://github.com/slidvo/vashipirogi)<br>
+Trainig project [Call center for service of delivery pies](https://github.com/slidvo/piesapp)
+
+---
+
+### Languages:
+
+- English \- I just learn English some times like a hobby, but some online tests result show  that is pre-intermediate
+- Russian \- Native
