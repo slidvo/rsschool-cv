@@ -17,7 +17,7 @@ For this moment I work in Bell Integrator. It is one of the biggest IT companies
 ### Skills and Proficiency:
 - HTML5, CSS3
 - JavaScript, NodeJs, ExtJs, EJS
-- Java, Spting Gramework, Hibernate ORM, PSQL
+- Java, Spting Framework, Hibernate ORM, PSQL
 - VS Code, InteliJ Idea
 - Git, Github, BitBucket
 - Docker
